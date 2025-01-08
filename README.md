@@ -2,7 +2,7 @@
 Shahriar turkish poets from (کلیات اشعار ترکی شهریار)
 
 
-The text you provided appears to be a Persian (Farsi) document, likely a collection of poems by the renowned Iranian poet **Shahriar** (Mohammad-Hossein Shahriar). The text contains various poems, including the famous **"Heydar Babaya Salam"**, which is one of Shahriar's most celebrated works in the Azerbaijani language. The document also includes commentary, introductions, and other related materials.
+The text we provided is a Persian (Farsi) document, likely a collection of poems by the renowned Turkish poet **Shahriar** (Mohammad-Hossein Shahriar). The text contains various poems, including the famous **"Heydar Babaya Salam"**, which is one of Shahriar's most celebrated works in the Azerbaijani language. The document also includes commentary, introductions, and other related materials.
 
 The OCR (Optical Character Recognition) conversion has introduced several issues, such as incorrect characters, misplaced line breaks, and formatting errors. Below, I will address some of the common problems and provide a cleaned-up version of the text where possible.
 
